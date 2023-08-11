@@ -2,6 +2,8 @@
 
 This is a Wordle game project built using Webpack, Babel, and Firebase.
 
+Link to the site: https://proyecto-pagina-web-ec0a9.web.app/
+
 ## Description
 
 Wordle is a word-guessing game where the player has to guess a five-letter word by entering different combinations. The game provides feedback on correct and incorrect letters.
