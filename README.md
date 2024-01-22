@@ -1,3 +1,3 @@
 Notes: 
-- Recipe Api test site does not have node_modules included given github file restrictions ( same with other sites ).
+- Please remember that node_modules need to be installed before running any of the projects.
 - Some of the sites hosted using firebase have bugs that are not in the source code, for example the personal site one of the buttons on the navbar doesn't work.
